@@ -91,7 +91,7 @@
             Console.WriteLine("2 + 2 = ");
             res = int.Parse(Console.ReadLine());
         } while (res != 4);
-
+        if (int.TryParse(Console.ReadLine(), out res)) Console.WriteLine(res);
 
 
     }
@@ -103,6 +103,9 @@
         //Console.CursorTop = 40;
         Console.OutputEncoding = System.Text.Encoding.Unicode; // вивід кирилиці
         Console.InputEncoding = System.Text.Encoding.Unicode; // ввід кирилиці
+        Console.Clear();
+        Console.Title = "====";
+
         string line = "C# language - популярна мова під .NET";
         string str = "Hello!!!";
         Console.WriteLine(line);
@@ -120,5 +123,8 @@
         // 3) imterplation line
         Console.WriteLine($"Message :: {str}");
         Console.WriteLine($"Value v * 2 = {v * 2,-20}  ++ f = {++f}");
+
+        // 4) raw line
+        Console.WriteLine(@"test\next\t");
     }
 }
