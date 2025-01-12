@@ -99,7 +99,7 @@ namespace _10_ExceptionHW
                 Console.Write($"Card number:"); Number = Console.ReadLine();
                 Console.Write($"CVV:"); Cvv = int.Parse(Console.ReadLine());
                 Console.Write($"Valid until:"); Date = DateTime.Parse(Console.ReadLine());
-                Console.ForegroundColor = ConsoleColor.Red;
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Filled successfully!");
                 Console.ResetColor();
             }
