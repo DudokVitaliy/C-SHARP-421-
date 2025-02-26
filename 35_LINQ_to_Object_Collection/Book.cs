@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _35_LINQ_to_Object_Collection
 {
-    public class Book
+    internal class Book
     {
         public enum CategoryBook {Cooking = 1, Children, NET, Web}
         public string Title { get; set; }
