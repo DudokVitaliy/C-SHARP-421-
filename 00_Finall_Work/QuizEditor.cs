@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _00_Finall_Work
 {
-    public class QuizEditor
+    internal class QuizEditor
     {
         private static string quizFilePath = "quizzes.json";
         public static void Start()

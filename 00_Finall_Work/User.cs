@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace _00_Finall_Work
 {
 
-    public class User
+    internal class User
     {
         public string Login { get; set; }
         public string Password { get; set; }

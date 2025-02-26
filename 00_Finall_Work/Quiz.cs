@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _00_Finall_Work
 {
-    public class Quiz
+    internal class Quiz
     {
         public string Category { get; set; }
         public List<Question> Questions { get; set; }

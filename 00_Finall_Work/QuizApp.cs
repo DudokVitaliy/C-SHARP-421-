@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _00_Finall_Work
 {
-    public class QuizApp
+    internal class QuizApp
     {
         public static List<Quiz> Quizzes;
         public static List<User> Users;

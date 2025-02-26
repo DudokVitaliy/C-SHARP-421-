@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _00_Finall_Work
 {
-    public class Question
+    internal class Question
     {
         public string Text { get; set; }
         public List<string> Answers { get; set; }
