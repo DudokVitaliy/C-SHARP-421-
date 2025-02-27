@@ -88,10 +88,9 @@ namespace _00_Finall_Work
                 }
             }
 
-            // Після проходження вікторини зберігаємо результат
             var results = LoadResults(Category);
             results.Add(new QuizResult(username, score, DateTime.Now));
-            results = results.OrderByDescending(r => r.Score).Take(20).ToList();  // Топ-20
+            results = results.OrderByDescending(r => r.Score).Take(20).ToList();
             SaveResults(Category, results);
 
             return score;

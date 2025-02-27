@@ -71,51 +71,53 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20_Events_HW", "20_Events_H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21_Events_HW", "21_Events_HW\21_Events_HW.csproj", "{1DE0E1E1-440B-4C27-AB3C-A953FB39890F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_Generics_Collection", "22_Generics_Collection\22_Generics_Collection.csproj", "{E17E944E-5107-4E5B-8089-894DCCDE0B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_Generics_Collection", "22_Generics_Collection\22_Generics_Collection.csproj", "{E17E944E-5107-4E5B-8089-894DCCDE0B1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_Generics_Stack", "23_Generics_Stack\23_Generics_Stack.csproj", "{4DF70082-3636-4F0C-B2BD-924E2636D5D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_Generics_Stack", "23_Generics_Stack\23_Generics_Stack.csproj", "{4DF70082-3636-4F0C-B2BD-924E2636D5D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_ArrayList", "24_ArrayList\24_ArrayList.csproj", "{33F82AAE-CF07-439F-8AD3-DBBA95CD3761}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24_ArrayList", "24_ArrayList\24_ArrayList.csproj", "{33F82AAE-CF07-439F-8AD3-DBBA95CD3761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Intro_to_Generics_Collection_HW", "24_Intro_to_Generics_Collection_HW\24_Intro_to_Generics_Collection_HW.csproj", "{97BA6695-7504-4025-B8D7-7D0734E8D6A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24_Intro_to_Generics_Collection_HW", "24_Intro_to_Generics_Collection_HW\24_Intro_to_Generics_Collection_HW.csproj", "{97BA6695-7504-4025-B8D7-7D0734E8D6A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_SortedList", "25_SortedList\25_SortedList.csproj", "{475B844D-F394-4659-A237-8B6D7249C743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25_SortedList", "25_SortedList\25_SortedList.csproj", "{475B844D-F394-4659-A237-8B6D7249C743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Dictionary", "26_Dictionary\26_Dictionary.csproj", "{8F3C1854-CBB3-4865-8758-34547FAB951B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_Dictionary", "26_Dictionary\26_Dictionary.csproj", "{8F3C1854-CBB3-4865-8758-34547FAB951B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Dictionary_HW", "26_Dictionary_HW\26_Dictionary_HW.csproj", "{3D2E9D9D-652D-4CAB-B0A1-494AAB148195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_Dictionary_HW", "26_Dictionary_HW\26_Dictionary_HW.csproj", "{3D2E9D9D-652D-4CAB-B0A1-494AAB148195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_FileStream", "27_FileStream\27_FileStream.csproj", "{901F47EA-A1B2-480D-ADDF-0E0A076F0ADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27_FileStream", "27_FileStream\27_FileStream.csproj", "{901F47EA-A1B2-480D-ADDF-0E0A076F0ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_BinaryWriterReader", "28_BinaryWriterReader\28_BinaryWriterReader.csproj", "{D3239295-48AA-45B7-8F78-CA6804BECB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28_BinaryWriterReader", "28_BinaryWriterReader\28_BinaryWriterReader.csproj", "{D3239295-48AA-45B7-8F78-CA6804BECB53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_SreamWriterReader", "29_SreamWriterReader\29_SreamWriterReader.csproj", "{E6C7D05D-CE52-4F10-A4A1-4CBBD965E161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29_SreamWriterReader", "29_SreamWriterReader\29_SreamWriterReader.csproj", "{E6C7D05D-CE52-4F10-A4A1-4CBBD965E161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_FIleStream_HW", "29_FIleStream_HW\29_FIleStream_HW.csproj", "{CBAA54E8-39C6-411C-BA35-94FCD8C6BF9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29_FIleStream_HW", "29_FIleStream_HW\29_FIleStream_HW.csproj", "{CBAA54E8-39C6-411C-BA35-94FCD8C6BF9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_XML_Serializers", "30_XML_Serializers\30_XML_Serializers.csproj", "{214E725A-A1FB-47C2-B227-3EE2F28C4F54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30_XML_Serializers", "30_XML_Serializers\30_XML_Serializers.csproj", "{214E725A-A1FB-47C2-B227-3EE2F28C4F54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_JSON_Serializer", "31_JSON_Serializer\31_JSON_Serializer.csproj", "{8C15C08C-0161-4691-804F-FB55246D1ED2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31_JSON_Serializer", "31_JSON_Serializer\31_JSON_Serializer.csproj", "{8C15C08C-0161-4691-804F-FB55246D1ED2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_Serializer_HW", "31_Serializer_HW\31_Serializer_HW.csproj", "{C6144B5B-47CD-4517-AB50-B5F4EB3204B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31_Serializer_HW", "31_Serializer_HW\31_Serializer_HW.csproj", "{C6144B5B-47CD-4517-AB50-B5F4EB3204B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_File_and_FileInfo", "32_File_and_FileInfo\32_File_and_FileInfo.csproj", "{AE2B8871-6510-4921-8A14-F5002066EBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32_File_and_FileInfo", "32_File_and_FileInfo\32_File_and_FileInfo.csproj", "{AE2B8871-6510-4921-8A14-F5002066EBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_Directory_and_DirecftoryInfo", "33_Directory_and_DirecftoryInfo\33_Directory_and_DirecftoryInfo.csproj", "{B88A04E1-1C0D-4BE4-A5B7-0C52855E6F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33_Directory_and_DirecftoryInfo", "33_Directory_and_DirecftoryInfo\33_Directory_and_DirecftoryInfo.csproj", "{B88A04E1-1C0D-4BE4-A5B7-0C52855E6F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_LINQ_to_Object", "34_LINQ_to_Object\34_LINQ_to_Object.csproj", "{B3CCF5AF-6CFE-46B6-814A-DF7CAC3408AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34_LINQ_to_Object", "34_LINQ_to_Object\34_LINQ_to_Object.csproj", "{B3CCF5AF-6CFE-46B6-814A-DF7CAC3408AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_LINQ_to_Object_Collection", "35_LINQ_to_Object_Collection\35_LINQ_to_Object_Collection.csproj", "{F5D71947-5152-4EC0-93A6-25BB1639330F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35_LINQ_to_Object_Collection", "35_LINQ_to_Object_Collection\35_LINQ_to_Object_Collection.csproj", "{F5D71947-5152-4EC0-93A6-25BB1639330F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Regex", "36_Regex\36_Regex.csproj", "{5349C23D-D412-4D94-979A-7543DA198194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36_Regex", "36_Regex\36_Regex.csproj", "{5349C23D-D412-4D94-979A-7543DA198194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Finall_Work", "00_Finall_Work\00_Finall_Work.csproj", "{8763A7C9-B412-4895-8F19-20AEBAF12F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00_Finall_Work", "00_Finall_Work\00_Finall_Work.csproj", "{8763A7C9-B412-4895-8F19-20AEBAF12F68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_Directory_HW", "33_Directory_HW\33_Directory_HW.csproj", "{045EFBD7-4EBF-4457-A7F9-104C2C16A235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33_Directory_HW", "33_Directory_HW\33_Directory_HW.csproj", "{045EFBD7-4EBF-4457-A7F9-104C2C16A235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_LINQ_HW", "35_LINQ_HW\35_LINQ_HW.csproj", "{21813C1D-B952-4512-AAEA-7502B541D877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35_LINQ_HW", "35_LINQ_HW\35_LINQ_HW.csproj", "{21813C1D-B952-4512-AAEA-7502B541D877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Regex_HW", "36_Regex_HW\36_Regex_HW.csproj", "{1E4967ED-1F62-48A9-AB6B-83EDCADCF162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36_Regex_HW", "36_Regex_HW\36_Regex_HW.csproj", "{1E4967ED-1F62-48A9-AB6B-83EDCADCF162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Exam", "00_Exam\00_Exam.csproj", "{0BDB4A39-085D-43F7-9E39-B1BA4B80B346}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{1E4967ED-1F62-48A9-AB6B-83EDCADCF162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E4967ED-1F62-48A9-AB6B-83EDCADCF162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E4967ED-1F62-48A9-AB6B-83EDCADCF162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDB4A39-085D-43F7-9E39-B1BA4B80B346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDB4A39-085D-43F7-9E39-B1BA4B80B346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDB4A39-085D-43F7-9E39-B1BA4B80B346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDB4A39-085D-43F7-9E39-B1BA4B80B346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
